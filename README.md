@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-**Hilal1782/Hilal1782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on word cloud project for my coursera course of python
 - 🌱 I’m currently learning backend development with python
