@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Hilal1782/Hilal1782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 19pwcse1782@uetpeshawar.edu.pk
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
