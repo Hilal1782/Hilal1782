@@ -2,7 +2,7 @@
 #### I am Hilal!
 
 
-- 🌱 I’m a **Machine Learning Intern** at DCSE UET Peshawar.
+- 🌱 A **Machine Learning Intern** at DCSE UET Peshawar.
 - 🌱 Also Volunteering for **TBH(The Blood Heroes)**, helping build a website for them
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with someone to contribute to the **TBH** Website I am working on
