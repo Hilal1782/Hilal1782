@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with someone to contribute to the **TBH** Website I am working on
 - 📫 Conect with me on Linked in: [Hilal Ahmad](https://www.linkedin.com/in/hilal-ahmad-a70a6b229/)
-- 📫 How to reach me: 19pwcse1782@uetpeshawar.edu.pk or hilal191782@gmail.com
+- 📫 How to reach me: hilal191782@gmail.com or 19pwcse1782@uetpeshawar.edu.pk
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love **Space Exploration**
